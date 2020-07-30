@@ -1,0 +1,113 @@
+@charset "utf-8";
+    
+    body{
+        background-image: url(../image/2019%E5%B9%B4%E3%80%80%E5%89%B5%E5%A4%A7%E7%A5%AD_200728.jpg);     }
+
+#top{margin: 0 0 0 130px; 
+     display: flex;
+  align-items: center;
+  justify-content: center;
+   }
+
+#float{ 
+    text-shadow: 2px  2px 5px white,
+            -2px  2px 5px white,
+             2px -2px 5px white,
+            -2px -2px 5px white;
+   
+}
+#tuki4{margin: 0 20% 0 10%;
+    text-shadow: 2px  2px 5px white,
+            -2px  2px 5px white,
+             2px -2px 5px white,
+            -2px -2px 5px white;}
+
+#tuki5{margin: 0 20% 0 9%;
+  color:aliceblue;
+text-shadow:  2px  2px 3px black,
+            -2px  2px 3px black,
+             2px -2px 3px gray,
+            -2px -2px 3px gray;
+}
+#tuki6{margin: 0 20% 0 10%;
+  
+         text-shadow: 2px  2px 5px white,
+            -2px  2px 5px white,
+             2px -2px 5px white,
+            -2px -2px 5px white;}
+#tuki7{margin: 0 20% 0 10%;
+  color:aliceblue;
+text-shadow:  2px  2px 3px black,
+            -2px  2px 3px black,
+             2px -2px 3px gray,
+            -2px -2px 3px gray;
+}
+
+
+ .kouhan8{margin: 15% 20% 5%; 
+color:aliceblue;
+text-shadow:  2px  2px 3px black,
+            -2px  2px 3px black,
+             2px -2px 3px gray,
+            -2px -2px 3px gray;}
+#kouhan9{margin: 0 0 0 20%;    
+         text-shadow: 2px  2px 5px white,
+            -2px  2px 5px white,
+             2px -2px 5px white,
+            -2px -2px 5px white;}
+#kouhan10{margin: 10% 0 550px 20%;   color:aliceblue;
+text-shadow:  2px  2px 3px black,
+            -2px  2px 3px black,
+             2px -2px 3px gray,
+            -2px -2px 3px gray;}
+#kouhan11{margin: 0 10% 2% 20%;
+
+         text-shadow: 2px  2px 5px white,
+            -2px  2px 5px white,
+             2px -2px 5px white,
+            -2px -2px 5px white;}
+#tuki12{margin:0 20% 450px 20%;color:aliceblue;
+text-shadow:  2px  2px 3px black,
+            -2px  2px 3px black,
+             2px -2px 3px gray,
+            -2px -2px 3px gray;}
+#tuki1{margin: 0 20% 0 20%;
+
+         text-shadow: 2px  2px 5px white,
+            -2px  2px 5px white,
+             2px -2px 5px white,
+            -2px -2px 5px white;}
+#tuki2{margin: 0 20% 0 20%;color:aliceblue;
+text-shadow:  2px  2px 3px black,
+            -2px  2px 3px black,
+             2px -2px 3px gray,
+            -2px -2px 3px gray;}
+#tuki3{margin: 0 20% 0 20%;
+
+         text-shadow: 2px  2px 5px white,
+            -2px  2px 5px white,
+             2px -2px 5px white,
+            -2px -2px 5px white;}
+#last-sentence{ color:aliceblue;
+text-shadow:  2px  2px 3px red,
+            -2px  2px 3px red,
+             2px -2px 3px red,
+            -2px -2px 3px red;
+    margin: 10px 20% 30px 30%; 
+}       
+#top-back{margin:0 20% 0 45%;
+text-shadow:  2px  2px 3px white,
+            -2px  2px 3px white,
+             2px -2px 3px white,
+            -2px -2px 3px white;}
+#copyright{ text-shadow: 2px  2px 5px white,
+            -2px  2px 5px white,
+             2px -2px 5px white,
+            -2px -2px 5px white;}
+
+a{text-decoration: none;
+    margin: 0 3px 0 0;
+    padding: 4px;
+border: 1px solid #666666;
+border-radius: 12px;
+    background: linear-gradient(#ffffff, #888888);}

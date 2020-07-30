@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+html{background-image: url(../image/uranai-gazou.jpg);
+background-size: cover;
+}
+
+p{text-align: center;
+    color:aliceblue;
+text-shadow:  2px  2px 3px red,
+            -2px  2px 3px red,
+             2px -2px 3px red,
+            -2px -2px 3px red;}
+h1,h2,h3{text-align: center;
+    color:darkblue;
+    text-shadow:  2px  2px 3px white,
+            -2px  2px 3px white,
+             2px -2px 3px white,
+            -2px -2px 3px white;}
+div{text-align: center;
+color:aliceblue;
+    text-shadow:  2px  2px 3px red,
+            -2px  2px 3px black,
+             2px -2px 3px red,
+            -2px -2px 3px black;}
+input{text-decoration: none;
+    margin: 0 4px 0 0;
+    padding: 4px;
+border: 1px solid #666666;
+border-radius: 12px;
+    background: linear-gradient(#ffffff, #888888);}
+a{text-decoration: none;
+    margin: 0 3px 0 0;
+    padding: 4px;
+border: 1px solid #666666;
+border-radius: 12px;
+    background: linear-gradient(#ffffff, #888888);}
+
+#endright{text-shadow:  2px  2px 3px white,
+            -2px  2px 3px white,
+             2px -2px 3px white,
+            -2px -2px 3px white;}
